@@ -10,3 +10,7 @@ yum install jenkins -y
 systemctl daemon-reload
 systemctl enable jenkins
 systemctl start jenkins
+
+
+Local machine centos7 jenkins URL
+http://192.168.25.3:8080/
