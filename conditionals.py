@@ -4,5 +4,5 @@ if day == "saturday" or day == "sunday":
     print("I will be learning")
 else:
     print("I will be doing practice")
-
+hello
 
